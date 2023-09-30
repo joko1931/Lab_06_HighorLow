@@ -42,7 +42,7 @@ public class Main {
                         else
                         {
                             numTrash = in.nextLine();
-                            System.out.println("While " + numTrash + " is a number, it isn't in the range. Please try again.");
+                            System.out.println("While " + numTrash + " is a number, it isn't in the range provided. Please try again.");
                         }
                 }
                 else
